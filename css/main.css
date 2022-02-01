@@ -1,0 +1,114 @@
+*{
+	text-decoration: none;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	color: rgb(213, 216, 219);
+}
+.main{
+	background-color: rgba(45, 53, 173, 0.65);
+}
+#detail{
+	margin-left: 18px;
+	padding-top: 12px;
+	margin-right: 5px;
+}
+#detail h2{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 25px;
+	font-weight: 500;
+	color: rgb(4, 35, 82);
+}
+#detail h3{
+	font-size: 20px;
+}
+#detail .set{
+	margin-bottom: 2px;
+	margin-top: 2px;
+}
+#detail p{
+	font-size: 20px;
+}
+.leonav{
+	font-size: 20px;
+}
+.leonav li a{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.leonav li a:hover{
+	transition: 0.6s;
+	letter-spacing: 2px;
+}
+.progress{
+	margin-bottom: 5px;
+}
+.crea{
+	border: 1px solid;
+	width: 40px;
+	border-color: rgb(73, 73, 151);
+	margin-bottom: 2px;
+	border-radius: 15px
+}
+#set li{
+	margin-left: 10px;
+	list-style-type: disc;
+	font-size: 18px;
+}
+#set a{
+	color: green;
+}
+.detme ol{
+	list-style: none;
+}
+.imgsrc img{
+	max-width: 250px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	float: left;
+	clear: both;
+	display: grid;
+}
+.imgsrc h3{
+	font-size: 22px;
+	color: rgb(82, 38, 38);
+	text-shadow: 1px 1px black;
+}
+.portimg img{
+	display: flex;
+	max-width: 280px;
+	max-height: 300px;
+	margin-bottom: 10px;
+}
+.media i{
+	padding: 5px;
+	margin-left: 5px;
+	border: 2px solid;
+	color: rgb(3, 30, 31);
+	border-radius: 100%;
+	font-size: 25px;
+}
+.media i:hover{
+	color: white;
+	background-color: rgb(113, 113, 119);
+	border: none;
+	/*zoom: 0.95;*/
+}
+#set h4{
+	font-size: 20px;
+}
+#set h5{
+	font-family:Arial, Helvetica, sans-serif;
+	color: rgb(6, 32, 54);
+	margin-top: 20px;
+	border-bottom: 2px solid rgb(40, 169, 192);
+}
+.foot{
+	width: 100%;
+	color: rgb(126, 58, 58);
+	background-color: rgb(156, 143, 143);
+	justify-content: center;
+	text-align: center;
+}
+.copyright{
+	text-align: center;
+}
