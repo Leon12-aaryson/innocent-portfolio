@@ -3,10 +3,10 @@
 	padding: 0;
 	margin: 0;
 	list-style: none;
-	color: rgb(213, 216, 219);
+	color: rgb(4, 16, 29);
 }
 .main{
-	background-color: rgba(45, 53, 173, 0.65);
+	background-color: rgba(234, 235, 243, 0.65);
 }
 #detail{
 	margin-left: 18px;
